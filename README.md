@@ -4,4 +4,4 @@ Thankyou Codsoft for giving me this opportunity.
 Following were the task assigned:
 1. Number Game
 2. Grade Calculater
-3. ATM interface
+3. ATM Interface
